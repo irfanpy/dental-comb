@@ -1,13 +1,13 @@
 # Teraleads Dental Assistant 
 **Note: AI Help is used while generating this file**
 
-## 🚀 Live Deployment
+## Live Deployment
 
 - **Frontend**: https://dental-assistant-six.vercel.app
 - **Backend API**: https://teraleads-backend-prod.up.railway.app
 - **AI Service**: https://ai-service-dental.up.railway.app
 
-## 📋 Setup & Run Instructions
+## Setup & Run Instructions
 
 ### Prerequisites
 - Node.js 18+ & npm
@@ -73,7 +73,7 @@
    python app.py
    ```
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 **Frontend (React + Vite)**
 - Patient list management with CRUD operations
@@ -99,9 +99,9 @@
 - Fallback responses for unknown queries
 - Production-ready error handling
 
-## 🛠️ Environment Variables Summary
+## Environment Variables Summary
 
-| Service | Variable## 📝 License
+| Service | Variable## License
 
 MIT
  | Purpose |
@@ -112,7 +112,7 @@ MIT
 | Frontend | `VITE_API_URL` | Backend API endpoint |
 | AI | `OPENROUTER_API_KEY` | Optional external LLM API |
 
-## 🤖 AI Usage Disclosure
+## AI Usage Disclosure
 
 **AI-Assisted Components:**
 - CSS styling and responsive design
@@ -135,7 +135,7 @@ MIT
 
 The core business logic, data models, authentication, and deployment infrastructure were entirely built and configured manually. AI was leveraged only for accelerating static UI/styling work, allowing focus on robust backend architecture and secure deployments.
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 Teraleads/
