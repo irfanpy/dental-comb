@@ -1,6 +1,5 @@
 # Teraleads Dental Assistant 
-## Note: AI Help is used while generating this file
-A full-stack AI-powered dental assistant dashboard built with React, Node.js, PostgreSQL, and Python. 
+**Note: AI Help is used while generating this file**
 
 ## 🚀 Live Deployment
 
