@@ -101,16 +101,15 @@
 
 ## Environment Variables Summary
 
-| Service | Variable## License
+| Service   | Variable              | Purpose                          |
+|------------|----------------------|----------------------------------|
+| Backend    | `DATABASE_URL`       | PostgreSQL connection string     |
+| Backend    | `JWT_SECRET`         | Token signing secret             |
+| Backend    | `AI_SERVICE_URL`     | AI service endpoint              |
+| Frontend   | `VITE_API_URL`       | Backend API endpoint             |
+| AI         | `OPENROUTER_API_KEY` | Optional external LLM API        |
 
-MIT
- | Purpose |
-|---------|----------|---------|
-| Backend | `DATABASE_URL` | PostgreSQL connection string |
-| Backend | `JWT_SECRET` | Token signing secret |
-| Backend | `AI_SERVICE_URL` | AI service endpoint |
-| Frontend | `VITE_API_URL` | Backend API endpoint |
-| AI | `OPENROUTER_API_KEY` | Optional external LLM API |
+
 
 ## AI Usage Disclosure
 
